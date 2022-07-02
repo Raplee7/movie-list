@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "688828857002",
+    "project_id": "movie-list-bdad6",
+    "storage_bucket": "movie-list-bdad6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688828857002:android:94e68bd4ec730ed8c86ed3",
+        "android_client_info": {
+          "package_name": "id.ac.bsi.movielist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688828857002-haaboe33tif5q4ait9sjak9ips5m9073.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNNsyxQBmxySq331gF3KvDvGX29luCXio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688828857002-haaboe33tif5q4ait9sjak9ips5m9073.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
